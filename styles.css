@@ -22,6 +22,4 @@ nav a:hover{
 header{
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: space-between;
 }
