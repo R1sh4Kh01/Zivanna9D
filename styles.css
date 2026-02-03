@@ -1,0 +1,27 @@
+header img{
+    height: 200px;
+    background-color:#c4dad3;
+}
+nav{
+    margin-top: 10px;
+    background-color:#c4dad3;
+}
+nav a{
+    text-decoration: none;
+    color: #2f3533;
+    font-size: 20px;
+    padding: 5px 15px;
+    font-family: Helvetica;
+}
+nav a:hover{
+    color: #b9d9d5;
+    background-color:#ecf2f5;
+    box-shadow: 5px 5px 5p 2px #dde8ed;
+    transition: 0.5s;
+}
+header{
+    text-align: center;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
