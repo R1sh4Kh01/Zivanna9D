@@ -23,3 +23,26 @@ header{
     text-align: center;
     color: white;
 }
+
+.home{
+    height: 600px;
+    background-image: url("gemini sourdough.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+}
+
+.deskripsihome{
+    width: 40%;
+    margin-left: 100px;
+    margin-top: 200px;
+    padding: 10px 25px;
+    border-radius: 30px;
+    color: black;
+
+}
+
+.deskripsihome a:hover{
+    box-shadow: 3px 3px 5px 3px #cfe1b9;
+    transition: 0.5s;
+}
