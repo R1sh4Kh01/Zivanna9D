@@ -1,0 +1,12 @@
+        <h1>My Contacts</h1>
+        <h4></h4>
+        <p>
+            <head>
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+                <body>
+                    <a href="tel: +62 838 5558 807"class:"fa fa-whatsapp">Whatsapp Number: +62 838 5558 807</a><br>
+                    <a href="https://www.tiktok.com/@r1sh4_kh01?_r=1&_t=ZS-94Yur7lGc2i">Tiktok</a><br>
+                    <a href="https://zevira.straw.page">Strawpage</a>
+                </body>
+            </head>
+        </p><br>
